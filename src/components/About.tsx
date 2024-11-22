@@ -18,15 +18,10 @@ export function About() {
           </div>
           <div className="space-y-4 sm:space-y-6 order-1 md:order-2">
             <p className="text-base sm:text-lg text-sage-800 leading-relaxed">
-              I'm a passionate Web Developer and Product Manager with a keen eye
-              for design and a love for creating seamless user experiences. With
-              a experience in both development and product management, I bring a
-              unique perspective to every project.
+              I’m a passionate Web Developer and aspiring Product Manager with a strong foundation in business development and sales. With experience in both technical development and strategic client engagement, I excel at blending design, user experience, and market insights. 
             </p>
             <p className="text-base sm:text-lg text-sage-800 leading-relaxed">
-              My approach combines technical expertise with strategic thinking,
-              ensuring that every solution not only works flawlessly but also
-              drives business value.
+            My approach is driven by data and collaboration, ensuring that every project not only looks great but also delivers measurable business value. From developing effective sales strategies to building strong client relationships, I bring a unique combination of technical and sales expertise to help companies grow.
             </p>
             {/* <div className="grid grid-cols-3 gap-2 sm:gap-4 mt-6 sm:mt-8">
               <div className="text-center p-2 sm:p-4">

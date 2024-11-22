@@ -13,12 +13,12 @@ export function Skills() {
     {
       category: 'Frontend Development',
       icon: Layout,
-      items: ['HTML', 'CSS', 'JavaScript', 'React'],
+      items: ['HTML', 'CSS', 'JavaScript'],
     },
     {
       category: 'Development Tools',
       icon: Code,
-      items: ['Git', 'Docker', 'AWS', 'CI/CD'],
+      items: ['Github', 'Figma'],
     },
     {
       category: 'Soft Skills',
@@ -26,7 +26,7 @@ export function Skills() {
       items: [
         'Leadership',
         'Communication',
-        'Problem Solving',
+        'Enflish proficiency(Spken & Written)',
         'Team Building',
       ],
     },
